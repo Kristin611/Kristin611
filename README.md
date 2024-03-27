@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kristin.
-- 👀 I’m interested in full-stack development and accessibility.
-- 🌱 I’m currently a boot camp student at Rice University. I am currently learning MongoDB & Mongoose.
+- 👀 I’m interested in backend development, AI, and accessibility.
+- 🌱 I graduated from Rice University with a certificate in full stack web development.
 - 💞️ I’m looking to collaborate on any interesting, fun, or academic-related projects!
 - 📫 How to reach me: GitHub inbox. 
 
